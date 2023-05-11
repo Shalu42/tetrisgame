@@ -1,4 +1,3 @@
-/*javascript*/
 let canvas = document.querySelector("#tetris");
 let scoreboard = document.querySelector("h2");
 let ctx = canvas.getContext("2d");
